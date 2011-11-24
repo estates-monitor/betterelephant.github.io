@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Blog Archive - Octopress</title>
-  <meta name="author" content="Your Name">
+  <title>Blog Archive - Better Elephant</title>
+  <meta name="author" content="Better Elephant">
 
   
-  <meta name="description" content=" Blog Archive Recent Posts ">
+  <meta name="description" content=" Blog Archive Recent Posts Latest Tweets Status updating... $.domReady(function(){ getTwitterFeed("heygateplaza", 4, false); }); Follow @heygateplaza ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -24,7 +24,7 @@
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Octopress" type="application/atom+xml">
+  <link href="/atom.xml" rel="alternate" title="Better Elephant" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -35,10 +35,10 @@
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/">Octopress</a></h1>
+  <h1><a href="/">Better Elephant</a></h1>
  <img src="/images/logo.png" alt="Stack Overflow" align="right" />
  
-    <h2>blogging framework for hackers.</h2>
+    <h2>campaigning for a better regeneration.</h2>
   
 </hgroup>
 
@@ -88,6 +88,22 @@
 </section>
 
 
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("heygateplaza", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/heygateplaza" class="twitter-follow-button" data-width="208px" data-show-count="false">Follow @heygateplaza</a>
+  
+</section>
+
 
 
 
@@ -99,12 +115,25 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2011 - Your Name -
+  Copyright &copy; 2011 - Better Elephant -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'rubygrade';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
