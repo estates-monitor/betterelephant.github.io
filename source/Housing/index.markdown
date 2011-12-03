@@ -7,7 +7,8 @@ footer: true
 Housing
 -------
 
-> "There are failed estates, but this is not one of them."        [T.Tinker - 2011, Heygate estate original architect.](http://www.guardian.co.uk/society/2011/mar/04/death-housing-ideal)
+{% blockquote Tim Tinker, original Heygate estate architect http://www.guardian.co.uk/society/2011/mar/04/death-housing-ideal Guardian article Feb 2011 %} "There are failed housing estates, but this is not one of them."
+{% endblockquote %}
 
 Despite having been declared structurally sound{link to Allot&Max survey}, the current regeneration scheme plans to demolish the 1,212 spacious but neglected council homes on the Heygate estate, and replace them with 2,500 new 'city appartments'. Only 12.5% of the new homes planned to be built are designated to be social-rented accommodation.
 
@@ -24,12 +25,12 @@ The [London Plan](http://www.london.gov.uk/priorities/planning/londonplan) requi
 
 Moreover, the demolition of the Heygate estate would cost the council millions of poundsat a time when it has seen a cut to its budget of 25%. We believe these funds can be better deployed elsewhere. 
 
-The crux of the __Better Elephant__ proposals is to retain the housing on the Heygate estate by purchasing it under the 'Community Right to Buy'. This will be achieved by ... funding ... 
+The crux of the __Better Elephant__ proposals is to retain the housing on the Heygate estate by purchasing it under the 'Community Right to Buy'.  
 
-There have already been a number of [imaginative proposals](http://www.nissankejones.com/heygateestate.html) for refurbishing the estate, and altering buildings for alternative use (ie. converting garages to artist studios/workshops etc.)
+mg right http://farm2.static.flickr.com/1352/5183057496_dcdf31303f.jpg %}There have already been a number of [imaginative proposals](http://www.nissankejones.com/heygateestate.html) for refurbishing the estate, and altering buildings for alternative use (ie. converting garages to artist studios/workshops etc.). Similar schemes in other locations - like the [Park Hill estate in Sheffield](http://www.guardian.co.uk/uk/2011/sep/25/park-hill-sheffield-landmark-revamp){% img right http://farm2.static.flickr.com/1352/5183057496_dcdf31303f.jpg %} have proven to be a resounding success. 
 
-Our proposals also include a public park in the centre of the estate within the [forest of mature trees](http://elephantandcastleurbanforest.com) and green spaces.
+Our proposals also include the creation of a public park in the centre of the estate, within the [forest of 450 mature trees](http://elephantandcastleurbanforest.com) and 5,000m2 of green space.
 
-The district-heating system on the estate lends itself nicely to being connected to a biomass boiler, providing eco-friendly warm and energy efficient homes.
+The existing district-heating system on the estate will be converted to a biomass boiler, providing eco-friendly warm and energy efficient homes.
 
  
