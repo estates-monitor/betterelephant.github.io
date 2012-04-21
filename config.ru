@@ -20,21 +20,6 @@ class SinatraStaticServer < Sinatra::Base
     File.exist?(file_path) ? send_file(file_path) : missing_file_block.call
   end
 
-helpers do
-
-    def protected!
-          unless authorized?
-                 response['WWW-Authenticate'] = %(Basic realm="Testing HTTP Auth")
-                  throw(:halt, [401, "Not authorized\n"])
-               end
-            end
-
-    def authorized?
-          @auth ||=  Rack::Auth::Basic::Request.new(request.env)
-          @auth.provided? && @auth.basic? && @auth.credentials && @auth.credentials == ['iglasspool', 'likewise']
-     end
-
-end
 
 
 end

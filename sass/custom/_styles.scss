@@ -1,4 +1,90 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-//$header-bg-image: image-url('img-elephant.jpg') top left;
+// let's have a background image in the header
+//body > header { padding: 0; background-image: image_url("shoreline.png"); background-repeat: no-repeat; background-position: 0 0; width: 1024px; height: 341px; }
+
+// alter how the page header h1 and h2 appear
+//body > header > hgroup > h1 { margin-left: 255px; font-size: 62px; line-height: 572px; }
+//body > header > hgroup > h2 { margin-left: 65px; font-size: large; margin-top: -12px; }
+
+// lets center any table we encounter
+//table { margin-left: auto; margin-right: auto; }
+
+// some utility stuff
+//.right { float: right; }
+
+// change the page background
+//html { background: #f5f5f5; }
+
+// Fonts
+// use my preferred fonts
+//.heading { font-family: "Caudex", "Georgia", "Helvetica Neue", Arial, sans-serif; }
+//.sans    { font-family: "Muli", "Helvetica Neue", Arial, sans-serif; }
+//.serif   { font-family: "Caudex", Georgia, Times, "Times New Roman", serif; }
+
+//p { @extend .sans; font-size: 15px; line-height: 18px; }
+//footer > p { @extend .sans; font-size: 12px; line-height: 18px; }
+
+//aside > section p { @extend .sans; font-size: 13px; line-height: 18px; }
+//aside > section h1 { @extend .serif; font-size: 20px; line-height: 36px; }
+//aside > section h6 { @extend .serif; font-size: 12px; line-height: 36px; }
+
+// date header for posting
+//article > header > p > time { font-size: 12px; line-height: 18px; }
+
+// a nice margine before and after images
+//p > img { margin: 18px auto 18px auto; }
+
+//body > header h1 {
+//  font-size: 26px;
+//  @extend .heading;
+//  font-weight: normal;
+//  line-height: 36px;
+//  margin-bottom: 0.6667px;
+//}
+
+//body {
+//  line-height: 18px;
+//  color: $text-color;
+//  @extend .sans;
+//}
+//h1 {
+//  font-size: 26px;
+//  line-height: 36px;
+//}
+
+//@media only screen and (min-width: 992px) {
+//  body { font-size: 14px; line-height: 18px; }
+//  h1 { font-size: 26px; line-height: 36px; }
+//}
+
+//#{headings()}{
+//  @extend .heading;
+//  text-rendering: optimizelegibility;
+//  margin-bottom: 1em;
+//  font-weight: bold;
+//}
+//h2, section h1 {
+//  font-size: 24; line-height: 36px;
+//}
+//h3, section h2, section section h1 {
+//  font-size: 22px; line-height: 36px;
+//}
+//h4, section h3, section section h2, section section section h1 {
+//  font-size: 20px; line-height: 36px;
+//}
+//h5, section h4, section section h3 {
+//  font-size: 18px; line-height: 36px;
+//}
+//h6, section h5, section section h4, section section section h3 {
+//  font-size: 16px; line-height: 18px;
+//}
+
+// aside link size
+//aside > section > ul > li > a { font-size: 13px; line-height: 18px; }
+//hr { line-height: 18px; }
+
+// hover style to expand figures
+//article { overflow: visible; }
+//figure[role="code"]:hover, .gist:hover { width: 800px; overflow: inherit; }
