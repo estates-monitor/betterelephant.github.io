@@ -4,7 +4,7 @@
   <title><![CDATA[BETTER ELEPHANT]]></title>
   <link href="http://betterelephant.github.com/atom.xml" rel="self"/>
   <link href="http://betterelephant.github.com/"/>
-  <updated>2012-10-09T09:29:39+01:00</updated>
+  <updated>2012-10-16T13:01:34+01:00</updated>
   <id>http://betterelephant.github.com/</id>
   <author>
     <name><![CDATA[Better Elephant]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Heygate Harvest Festival]]></title>
+    <link href="http://betterelephant.github.com/blog/2012/10/16/heygate-harvest-festival/"/>
+    <updated>2012-10-16T12:40:00+01:00</updated>
+    <id>http://betterelephant.github.com/blog/2012/10/16/heygate-harvest-festival</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://betterelephant.github.com/images/harvest2.JPG" width="400" height="300">
+The heygate&#8217;s guerilla allotment gardeners celebrated their harvest festival on Sunday evening.</p>
+
+<p>Around 20 gardeners gathered in the estate to taste the fruit of their hard labour. A plethora of different salad dishes were followed by a main course of home-made pumpkin pasta. <img class="left" src="http://betterelephant.github.com/images/harvest1.JPG" width="400" height="300"></p>
+
+<p><img class="right" src="http://affordable.heroku.com/images/forestfeast.jpg">This made a nice change to last year&#8217;s pumpkin paella!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Heygate Cinema Celebrates Opening Night]]></title>
