@@ -4,7 +4,7 @@
 
 url: http://betterelephant.github.com
 title: BETTER ELEPHANT 
-subtitle: Campaigning for a better regeneration.
+subtitle: Creating a More Sustainable Elephant
 author: Better Elephant
 simple_search: http://google.com/search
 
@@ -44,13 +44,15 @@ titlecase: true       # Converts page and post titles to tilecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 # blog_index_asides:
 # post_asides:
 # page_asides: [asides/petition.html]
+# teambox_asides: [asides/petition.html]
+
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -84,8 +86,8 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
-delicious_count: 3
+delicious_user: 35percent
+delicious_count: 5
 
 # Disqus Comments
 disqus_short_name: rubygrade
@@ -95,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-12805041-3 
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

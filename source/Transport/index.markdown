@@ -1,5 +1,6 @@
 ---
 layout: page
+aside: false
 comments: true
 sharing: true
 footer: true
@@ -42,4 +43,10 @@ Ten Heygate Myths:
 __False:__ Only 612 social-rented units at council 'target rents' are due to be built in the E&C opportunity area. [Click here for details](https://docs.google.com/presentation/pub?id=1HyKPHT0Hdjausk-B6GBUppzlBlSRNpclulVD9DwhC5w&start=false&loop=false&delayms=3000#slide=id.p11)
 
 * The demoliton of the Heygate is being held up by a handful of Leaseholders who are holding out for more money. __False:__ The last remaining leaseholders on the estate are unable to relocate with the [below-market valuations that are being offered for the homes.](http://halag.wordpress.com/Rachmanism)
+
+
+<iframe src="http://www.teambox.com" width="800" height="800"></iframe>
+
+
+
 

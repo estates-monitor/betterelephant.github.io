@@ -1,33 +1,34 @@
 ---
 layout: page
-date: 2012-02-28 08:22
+title: "Meanwhile Use"
 comments: true
 sharing: true
 footer: true
-description: "Better Elephant - Heygate estate interim space"
+description: "Better Elephant - Meanwhile Space"
 keywords: "Heygate estate gardening, heygate estate allotments, Heygate estate gardens, Heygate estate mobile gardeners"
 ---
 
-Interim gardening on the Heygate estate
--------------------------------
+'Meanwhile Use' is the temporary use of vacant buildings or land for a socially beneficial purpose until such a time that they can be brought back into commercial use again. It makes practical use of the ‘pauses’ in property processes, giving the space over to uses that can contribute to quality of life and better places whilst the search for a commercial use is ongoing.
 
-{% img right http://elephantecopark.org/images/heygate.jpg %}The main site of the Heygate estate (North of Heygate st.) spans an area of 17 acres, and is populated with a forest of over 450 mature trees. The current masterplan proposals make NO provision for the interim use of this site during the estimated 15 years that it will take to develop. We believe that this is a waste, and will leave the Elephant surrounded by a barren wasteland for many years to come. We think that we can do better and that it would make a better elephant if the space were used in the interim period.
+{% img right /images/neoheygate.png 400 560 %}Empty spaces are a blight to communities, a financial drain to owners and stimulate wider civic problems. Meanwhile use brings clear benefits to local communities through involvement, education and new facilities, and also brings benefits to developers by improving the image of a development and by providing a way of ensuring the engagement of the local community.
 
-<object width="250" height="188"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626751022542%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626751022542%2F&set_id=72157626751022542&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626751022542%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626751022542%2F&set_id=72157626751022542&jump_to=" width="250" height="188"></embed></object> The estate was decanted in 2007 and has now been lying empty for nearly 5 years. In many areas, waste and rubbish from the decant had been left littering the site and posing a health risk. Last year, some of the remaining residents whose complaints about the rubbish went unheeded by the council, decided to clean it up themselves. They invited local people to help clear the gardens of the empty properties and started growing vegetables. At the height of the growing season around 40 people were tending vegetable patches on the estate, and activities expanded to include beekeeping, basket-weaving and aquaponics.  
+The main site of the Heygate estate spans an area of around 20 acres, and is populated with a forest of 400 mature trees. The current masterplan proposals make no provision for the interim use of this site during the estimated 15 years that it will take to develop. Better Elephant has been working with local people, former and remaining residents to keep this space alive. We have been facilitating activities including freerunning, gardening, [go-carting](http://releasethewolves.org/) and [cinema screenings](/blog/2012/09/25/heygate-cinemas-opening-night/). 
+
+Last year, the Heygate gardeners decided to clean up more of the disused green spaces and invite more local people to start growing vegetables. Activities have now expanded to include beekeeping, basket-weaving and a fish pond for an aquaponics system.  
 
 <object width="200" height="150"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626626475955%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626626475955%2F&set_id=72157626626475955&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626626475955%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157626626475955%2F&set_id=72157626626475955&jump_to=" width="200" height="150"></embed></object>
 
-{% img left http://farm8.staticflickr.com/7198/6791800232_2f39a4a174.jpg %}This year, the gardeners are planning to extend use of the space to other areas within the site. They have acquired a number of the council's old recycling containers which are currently being replaced, and are inviting more local residents to come and get involved.  
-<br>
-<br>
-<br>
+This year, the gardeners have been extending use of the space to other concreted areas within the site. They have [acquired a number of the council's old recycling containers](http://www.veoliaenvironmentalservices.co.uk/Southwark/About-us/News/Press-releases/Grow-your-own-in-the-old-blue-box/) which are currently being replaced, and are inviting more local residents to come and get involved. We also organise events including walks, talks and screenings - you can find out more about these from the [Facebook group](http://www.facebook.com/groups/185092524956032/) page or follow our twitter feed @betterelephant for upcoming events.  
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yD5b4UWtb00" frameborder="0" allowfullscreen></iframe>
+
+<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157630934154742%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157630934154742%2F&set_id=72157630934154742&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157630934154742%2Fshow%2F&page_show_back_url=%2Fphotos%2F46360829%40N03%2Fsets%2F72157630934154742%2F&set_id=72157630934154742&jump_to=" width="400" height="300"></embed></object>
+
 <br>
 <br>
 
+{% img right http://t1.gstatic.com/images?q=tbn:ANd9GcTFZZqOTZjKk9JBQ-K-Jj6xrfQcWDZNLn6X26wvKF5nrk-rED67VQ %}The main allotments are located between the 'Cuddington' block of maisonettes. There are a wide range of tools and materials on site - local residents are invited to come and get involved. The gardeners meet every Sunday afternoon between 2pm and 5pm, and can be found either in the allotment areas marked in red on the map, or in the meeting area underneath the Great Maple tree on the Cuddington block of maisonettes:   {% img http://alicecalcagno.files.wordpress.com/2012/09/dsc_9857-2.jpg?w=750&h=502 %} 
 
-{% img right http://t1.gstatic.com/images?q=tbn:ANd9GcTFZZqOTZjKk9JBQ-K-Jj6xrfQcWDZNLn6X26wvKF5nrk-rED67VQ %}The containers have been placed between the 'Cuddington' block of maisonettes, and local residents are invited to come and plant fruit and vegetables at their convenience. The gardeners meet every Sunday afternoon between 2pm and 5pm, and can be found in the areas marked in red on the map. 
-
-Every Sunday during March is a 'Sowing Sunday', where gardeners will be meeting between 2pm and 5pm in order to sow seeds in the mobile containers. Local residents are invited to come along and start their own mobile garden. Containers and soil will be provided- all that is required are the seeds!
 
 
 
