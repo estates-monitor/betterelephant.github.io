@@ -2,20 +2,20 @@
 layout: post
 title: "London Assembly investigates refurbishment vs demolition"
 date: 2014-07-11 17:30
-comments: false
+comments: true
 categories: 
 ---
 {% img left https://pbs.twimg.com/media/BsMSNi1IEAEATUy.jpg:large 300 200 %}Last Friday saw the second meeting of the London Assembly's [investigation](https://www.london.gov.uk/mayor-assembly/london-assembly/investigations/demolition-and-refurbishment-of-social-housing-estates-in-london) into the refurbishment and demoliton of council estates. The first meeting in June had heard from regeneration industry 'specialists', who caused a stir when Stephen McDonald, Southwark's former head of regeneration [boasted](https://www.youtube.com/watch?v=C-olUu1wHqA&feature=youtu.be&t=1h6m16s) about winning an award for 'emptying' the Heygate of its residents in under a year. Stephen is now working for Barnet Council emptying the West Hendon estate of its residents.
 
-Last week's meeting gave the opportunity for an alternative perspective and for those directly affected by regeneration schemes to have their say. Among the highlights of the meeting were:
+Last week's meeting gave the opportunity for an alternative perspective and for those directly affected by regeneration schemes to have their say. Among the highlights from speakers at the meeting were:
 
-Roy Kindle - formerly of Greenwich Council said: [_"10 years ago residents on the Ferrier estate were told that they would have the right to come back, but what Greenwich didn't mention is that they would need to win the lottery to do so."_](http://youtu.be/laCg-kfcpIE?t=1h6m33s)
+Roy Kindle - formerly of Greenwich Council who said: [_"10 years ago residents on the Ferrier estate were told that they would have the right to come back, but what Greenwich didn't mention is that they would need to win the lottery to do so."_](http://youtu.be/laCg-kfcpIE?t=1h6m33s)
 
-Richard Lee from the Just Space Network claimed that [_"decisions to demolish seem to be based on some kind of ideological, policy-driven agenda rather than a robust cost/benefit analysis - technical reports very rarely look at the question of embodied carbon."_](http://youtu.be/laCg-kfcpIE?t=1h21m44s)
+Richard Lee from the [Just Space Network](http://justspace.org.uk/) who explained that [_"decisions to demolish seem to be based on some kind of ideological, policy-driven agenda rather than a robust cost/benefit analysis - technical reports very rarely look at the question of embodied carbon."_](http://youtu.be/laCg-kfcpIE?t=1h21m44s)
 
-Chris Jofeh, Director of Arup (the consulting engineers who were involved in the original Heygate construction and also the redevelopment) said: [_"Demolition and rebuild emits a super amount of carbon dioxide and even if you build super-efficient new homes it could take 30 years before you redress the balance. If we do take carbon targets seriously then refurbishment is an option which is much more likely to achieve those targets."_](http://youtu.be/laCg-kfcpIE?t=1h50m15s)
+Chris Jofeh, Director of Arup (the consulting engineers who were involved in the original Heygate construction and also the redevelopment) claimed that [_"Demolition and rebuild emits a super amount of carbon dioxide and even if you build super-efficient new homes it could take 30 years before you redress the balance. If we do take carbon targets seriously then refurbishment is an option which is much more likely to achieve those targets."_](http://youtu.be/laCg-kfcpIE?t=1h50m15s)
 
-Twice during the meeting the question was asked "can anybody give a positive example of regeneration?", the answer was silence accompanied by widespread shoulder shrugging.
+Twice during the meeting the question was asked "can anybody give a positive example of regeneration?"; unfortunately the answer was silence accompanied by widespread shoulder shrugging.
 
 This is a problem, particularly when the issue is polarised around the two opposed camps of refurbishment versus demolition. In the context of the seemingly universal agreement around housing shortages and the need for density increases, this can lead to equally universal [claims](http://www.theguardian.com/politics/davehillblog/2013/feb/13/elephant-and-castle-southwark-council-regeneration-rights-and-wrongs) that there is no alternative to the Heygate & Aylesbury-style wholesale discounted disposal option.
 
