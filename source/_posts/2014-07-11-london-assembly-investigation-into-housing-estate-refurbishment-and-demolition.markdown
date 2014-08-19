@@ -13,7 +13,7 @@ Roy Kindle - formerly of Greenwich Council who said: [_"10 years ago residents o
 
 Richard Lee from the [Just Space Network](http://justspace.org.uk/) who explained that [_"decisions to demolish seem to be based on some kind of ideological, policy-driven agenda rather than a robust cost/benefit analysis - technical reports very rarely look at the question of embodied carbon."_](http://youtu.be/laCg-kfcpIE?t=1h21m44s)
 
-Chris Jofeh, Director of Arup (the consulting engineers who were involved in the original Heygate construction and also the redevelopment) claimed that [_"Demolition and rebuild emits a super amount of carbon dioxide and even if you build super-efficient new homes it could take 30 years before you redress the balance. If we do take carbon targets seriously then refurbishment is an option which is much more likely to achieve those targets."_](http://youtu.be/laCg-kfcpIE?t=1h50m15s)
+Chris Jofeh, Director of [Arup](http://arup.com) (the consulting engineers who were involved in the original Heygate construction and also the redevelopment) claimed that [_"Demolition and rebuild emits a super amount of carbon dioxide and even if you build super-efficient new homes it could take 30 years before you redress the balance. If we do take carbon targets seriously then refurbishment is an option which is much more likely to achieve those targets."_](http://youtu.be/laCg-kfcpIE?t=1h50m15s)
 
 Twice during the meeting the question was asked "can anybody give a positive example of regeneration?"; unfortunately the answer was silence accompanied by widespread shoulder shrugging.
 
@@ -26,7 +26,7 @@ However, Southwark rejected the consultants' recommendations on the grounds that
 We are now 15 years on from this decision and are just beginning to be able to evaluate its social, economic and environmental outcomes:
 
 __Economic:__ Southwark Council has spent far more on 'decanting' the estate than expected. By Jan 2013 it had incurred capital and revenue costs totalling £65m<a href="#footnote-1">[1]</a>.  
-__Social:__ the social impact of the scheme and its failure to provide new homes for residents has been widely [documented](http://heygate.github.io).  
+__Social:__ the social impact of the scheme and its failure to provide the new homes promised to Heygate residents has been widely [documented](http://heygate.github.io).  
 __Environmental:__ the continued emphasis on the operative carbon emission comparisons between Heygate buildings and its intended replacements entirely disavows the question of embodied carbon, i.e. the carbon emitted from the construction of materials contained both in existing buildings and their replacements. [This](http://heygateestate.wordpress.com) 2012 report by [Gensler](http://gensler.com) & [Baqus](http://baqus.co.uk) shows that 40,000 tonnes of C02 emissions could have been saved by the estate's refurbishment.
 
 
@@ -49,7 +49,7 @@ More information about the Six Acres estate regeneration can be found [here](htt
 <div style="width:330px; font-size:80%; text-align:center;"><a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/"><img src="/images/sixacresafter.JPG" width="330" height="220"></a>Six Acres estate after regen - more photos <a href="https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/">[here.]</a></div>
 </center>
 </br>
-{% img right /images/Pickles_TearDownEstates.jpg 300 600 %}So the question is - can Six Acres be held up as a positive example of regeneration? and can it be used to halt the advance of the approaching tidal wave of needless council estate demolitons and sell-offs? 
+{% img right /images/Pickles_TearDownEstates.jpg 300 600 %}So the question is - can Six Acres estate be held up as a positive example of regeneration? and can it be used in time to halt the approaching onslaught of  council estate demolitons and sell-offs? 
 </br>
 </br>
 </br>
@@ -59,8 +59,8 @@ More information about the Six Acres estate regeneration can be found [here](htt
 </br>
 </br>
 </br>
-<font size="2"><p id="footnote-1">[1] See [Paragraph 2.8 of Heygate CPO Statement of Reasons](http://www.southwark.gov.uk/download/downloads/id/8194/core_document_2_-_statement_of_reasons_sor_-_sor)</p></font>
+<font size="2"><p id="footnote-1">[1] See [Paragraphs 5.34 & 5.35 of CPO Statement of Evidence](http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof)</p></font>
  
-<font size="2"><p id="footnote-1">[2] See [Paragraphs 5.34 & 5.35 of CPO Statement of Evidence](http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof)</p></font>
+<font size="2"><p id="footnote-1">[2] See [Paragraph 2.8 of Heygate CPO Statement of Reasons](http://www.southwark.gov.uk/download/downloads/id/8194/core_document_2_-_statement_of_reasons_sor_-_sor)</p></font>
 
 

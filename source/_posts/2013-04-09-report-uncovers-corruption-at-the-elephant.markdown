@@ -12,7 +12,7 @@ A [recently released report](http://www.spinwatch.org/index.php/component/k2/ite
 The report reveals a number of former council officers involved in negotiations with developer Lend Lease for the [controversial sale](http://www.newstatesman.com/2013/02/southwark-council-accidentally-leaks-confidential-information-about-controversial-heygate-re) of the Heygate estate, who have left the council and are now full-time employees of Lend Lease Plc.
 
 {% img left /images/kura.jpg %}Tom Branton and Kura Perkins both worked for Southwark Council on the Elephant & Castle project for a number of years. [Kura](http://www.linkedin.com/profile/view?id=3345943&authType=NAME_SEARCH&authToken=ZqUk&locale=en_US&srchid=304789661365583420915&srchindex=2&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A304789661365583420915%2CVSRPtargetId%3A3345943%2CVSRPcmpt%3Aprimary) is now working as Communications Manager at Lend Lease.
-[Tom](http://www.linkedin.com/pub/tom-branton/26/132/b83) is now Lend Lease's Development Manager for the Elephant & Castle project. 
+[Tom](http://www.linkedin.com/pub/tom-branton/26/132/b83) was the lead officer in charge of [negotiating](http://moderngov.southwarksites.com/Published/C00000308/M00003633/AI00011300/$ElephantandCastleRegenerationAgreementandDisposalofAssociatedLandReport.docA.ps.pdf) the development partnership agreement and is now Lend Lease's Development Manager for the Elephant & Castle project. 
 
 </br>
 
