@@ -32,16 +32,16 @@ The report went on to reveal that nearly a quarter of Southwark's councillors al
 
 Under his list of major accomplishments he boasts _"Winning approval at committee for a major development on a greenfield site"_ [According to Private Eye](https://twitter.com/bridgewithout/status/326274571516928000/photo/1), Lend Lease numbers among Curtin & Co's clients on a number of projects, and Curtin is currently advising developers on the controversial [Southwark Metals development](http://www.independent.co.uk/news/uk/politics/lib-dem-deputy-investigated-over-lobbying-8395968.html) in Bermondsey for which Stanton's party received a donation.
 
-{% img right http://www.southwarknews.co.uk/uploads/Kim-humphreys-203x152.jpg %}After having [left the council in 2010](http://www.southwarknews.co.uk/00,news,17488,185,00.htm), former Deputy Council Leader Kim Humphries is now working on projects in Southwark as a development consultant. He is currently advising developers on a controversial [Borough High st development](http://m.bdonline.co.uk/news/king%E2%80%99s-college-under-siege-from-heritage-lobby/5056527.article), and the [Canada Water regeneration](http://canadawater.org) - a scheme which he himself conceived while in office.
+{% img right http://www.southwarknews.co.uk/uploads/Kim-humphreys-203x152.jpg %}After having [left the council in 2010](http://www.southwarknews.co.uk/00,news,17488,185,00.htm), former Deputy Council Leader Kim Humphries is now working on projects in Southwark as a development consultant. He is currently working as a consultant for developers on a controversial [Borough High st development](http://m.bdonline.co.uk/news/king%E2%80%99s-college-under-siege-from-heritage-lobby/5056527.article), the Canada Water regeneration and as the [shopping centre redevelopment](http://southwarknotes.wordpress.com/tag/kim-humphreys/) at Elephant & Castle - all schemes which he himself conceived while in office.
 
-Of the 8 former elected council members who have overseen the E&C scheme since its inception, 6 are now working or have since worked in the private sector advising developers on real-estate developments, 3 on developments at the E&C and 5 on developments within the borough.
+Of the 8 former elected council members who have overseen the E&C scheme since its inception, 5 are now working or have since worked in the private sector advising developers on real-estate developments, 3 on developments at the E&C and 5 on developments within the borough.
 
 1. Jeremy Fraser (Council Leader 1994 - 1997)
 2. Stepanie Elsy (Council Leader 1997 -2002)
 3. Steve Lancashire (Executive Member for Regeneration 1998 - 2002)
 4. Nick Stanton (Council Leader 2002 - 2010)
 5. Richard Thomas (Executive Member for Regeneration 2006-2008)
-6. Catherine Bowman (Executive Member for Regeneration 2005-2006)
+
 
 
 

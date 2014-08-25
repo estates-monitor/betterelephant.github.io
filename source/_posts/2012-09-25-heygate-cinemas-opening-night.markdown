@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 <p>
-    Following a spate of <a href="http://betterelephant.org/images/unauthorised_activities.pdf">attempts to stifle its interim use programme</a> last year, this year Better Elephant decided to create a pop-up cinema, which can be popped up and then quickly popped down again.</p>
+    Following last year's attempts by Southwark Council to <a href="http://betterelephant.org/images/unauthorised_activities.pdf">prosecute remaining residents</a> involved in Better Elephant's interim use programme, this year Better Elephant decided to create a pop-up cinema which can be popped up and then quickly popped down again.</p>
 
 
 <p style="text-align: center; ">
@@ -58,7 +58,7 @@ In the film, Doreen Gee - former Chair of the Tenants &amp; Residents Associatio
 </br>
 </br>
 </br>
-{% img right http://betterelephant.github.com/images/mrstilki.jpg 400 300 %}Meanwhile two of the remaining households on the estate - about to be <a href="http://heygate.github.io/displacement.html">forcibly displaced</a> - include pensioners in their seventies & eighties. Since the council <a href="http://www.southwarknews.co.uk/00,news,19279,185,00.htm">switched their heating off</a> in 2010, the Mustafa family and the Tilki family have been sat at home covered in blankets huddled around a portable electric fan heater - whilst artists and revellers gather around the spectacle of a fire-breathing dragon in the estate's former community hall. </br>Welcome to London's most inequitable regeneration scheme and most brazen example of Gentrification at its worst.&nbsp;
+{% img right http://betterelephant.github.com/images/mrstilki.jpg 400 300 %}Meanwhile two of the remaining households on the estate - about to be <a href="http://heygate.github.io/displacement.html">forcibly displaced</a> - include pensioners in their seventies & eighties. Since the council <a href="http://www.southwarknews.co.uk/00,news,19279,185,00.htm">switched their heating off</a> in 2010, the Mustafa family and the Tilki family have been sat at home covered in blankets huddled around a portable electric fan heater - whilst artists and revellers gather around the spectacle of a fire-breathing dragon in the estate's former community hall. </br>Welcome to London's least equitable regeneration scheme and most brazen example of Gentrification in action.&nbsp;
 </br>
 <center>
 <img src="http://heygate.github.io/img/mrsmustafa.jpg" height="400" width="400"/>
