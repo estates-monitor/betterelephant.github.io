@@ -73,7 +73,7 @@ Southwark Council is estimated to have spent around £3m obtaining the Compulsor
 The council’s case documents submitted for the CPO can be downloaded [here](http://www.southwark.gov.uk/downloads/download/3287/heygate_compulsory_purchase-core_documents_and_proofs_of_evidence_list), and a copy of the Objectors’ Statement of Case is available [here](http://betterelephant.github.com/images/HeygateCPOStatementOfCaseFinal.pdf). A short audio recording of objectors giving evidence at the inquiry can be downloaded from [here](http://heygate.github.io/img/CPORichardLee.mp3). 
 
 __Footnotes:__
-<p id="footnote-1">[1]: [Inquiry Document 32](http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf) tabled by Project Director Jon Abbott during Public Inquiry on 8 Feb 2013
+<p id="footnote-1">[1]: <a href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">Inquiry Document 32</a> tabled by Project Director Jon Abbott during Public Inquiry on 8 Feb 2013
 <p id="footnote-2">[2]: Mr Tinker's written statement, Objectors' Statement of Case - page 45.
 <p id="footnote-3">[3]: Mr Edwards' written statement, Inquiry Document 21.
 <p id="footnote-4">[4]: Professor Lees' written statement, Inquiry Document 26.
