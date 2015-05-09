@@ -5,7 +5,7 @@ date: 2014-10-19 11:37
 comments: true
 categories: 
 ---
-Last week's [international property fair __MIPIM__](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) wasn't just for developers and councils, it was also for those who help developers lobby councils. [__Four Communications__](https://www.fourcommunications.com/) is one such company. It says it offers teams of experts who _"provide support at every stage of the planning, marketing and communications process"_ and helps to secure [_"political support in the face of public opposition"_](https://www.fourcommunications.com/work-gallery/helping-secure-new-community-stadium).  
+Last week's [international property fair __MIPIM__](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) wasn't just for developers and councils, it was also for those who help developers lobby councils. [__Four Communications__](http://www.fourcommunications.com/) is one such company. It says it offers teams of experts who _"provide support at every stage of the planning, marketing and communications process"_ and helps to secure [_"political support in the face of public opposition"_](https://www.fourcommunications.com/work-gallery/helping-secure-new-community-stadium).  
  
 [{% img http://crappistmartin.github.io/images/FourMipimStand.png %}](http://my.mipim.com/online-database/mipim/companies/#search=d%3D101990%7C0F%26startRecord%3D205%26rpp%3D12)
 
@@ -35,7 +35,7 @@ Every major planning application requires a Statement of Community Involvement (
 
 | St. George's Wharf | One Blackfriars | Eileen House | Strata Tower | The Quill | 
 | ------------ | ------------ |-------------|------------
-| {% img https://www.fourcommunications.com/sites/default/files/styles/hero_teaser__454x454_/public/case_studies/St%20George.jpg?itok=5zQoILGB 150 200 %} | {% img http://www.stgeorgeblackfriars.co.uk/wp-content/uploads/2012/01/croppedblackfriarsrd.jpg 125 200 %} | {% img http://www.london-se1.co.uk/news/imageuploads/1387461650_80.79.211.163.jpg 150 200 %} | {% img http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg 150 250 %} | {% img http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg 150 250 %} |
+| {% img http://www.skyscrapernews.com/images/pics/119TheTowerOneStGeorgeWharf_pic2.jpg 150 200 %} | {% img http://www.london-se1.co.uk/news/imageuploads/1349877683_80.177.117.97.jpg 125 200 %} | {% img http://www.london-se1.co.uk/news/imageuploads/1387461650_80.79.211.163.jpg 150 200 %} | {% img http://www.e-architect.co.uk/images/jpgs/london/strata_se1_bfls060410_wp.jpg 150 250 %} | {% img http://www.london-se1.co.uk/news/imageuploads/1291215503_80.177.117.97.jpg 150 250 %} |
 | [http://fourcomm..](https://www.fourcommunications.com/work-gallery/media-and-marketing-st-george) | [http://planningonli..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/230650_1.pdf)| [http://planningonl..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/42382_1.pdf) | [http://planningon..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/15810_1.pdf) | [http://planningonl..](http://planningonline.southwark.gov.uk/DocsOnline/Documents/75686_1.pdf) |
 
 
@@ -50,9 +50,13 @@ Every major planning application requires a Statement of Community Involvement (
 
 The planning application was duly nodded through and Strata Tower - entirely without social rented housing but complete with useless wind turbines - was built.  
 
-__Four__'s links with Southwark's political leaders are not just limited to the Southwark Labour party, it is also a [member](http://www.teamlondonbridge.co.uk/businessdirectorydetails.aspx?ref=6051) of the __Team London Bridge__ Business Improvement District where its office is located, of which Southwark Regen boss Fiona Colley is [a Director](http://www.teamlondonbridge.co.uk/default.aspx?m=3&mi=272&ms=103). 
+{% imgcap right /images/dimoldenberg.jpg 300 300 Private Eye (issue 1380 - 25 Nov 2014) %}It is worth noting that the council's E&C regeneration partner Lend Lease, is absent from the list of __Four__'s clients. That's because Lend Lease employs a different PR company called [__Quatro__](http://www.quatro-pr.co.uk/) to handle PR for its developments. It's also worth noting that __Quatro__'s Managing Director [Paul Dimoldenberg](https://www.linkedin.com/pub/paul-dimoldenberg/a/5b5/b44), is a former senior Southwark council officer and current leader of the Labour group on Westminster city council. 
+ 
+</br>
+</br>
+</br>
+As covered in a [previous post](http://betterelephant.org/blog/2013/04/09/report-uncovers-corruption-at-the-elephant/), Southwark's former Lib Dem and Conservative leaders have shown no greater integrity and are both now helping developers obtain planning permission for developments in Southwark. But what makes the Labour leaders' double-dealing particularly dangerous is their political strangleholds in Southwark and Lambeth: the lack of any opposition party provides the leaders with a free hand to wave all these developments through unscrutinised. 
 
-As covered in a [previous post](http://betterelephant.org/blog/2013/04/09/report-uncovers-corruption-at-the-elephant/), Southwark's former Lib Dem and Conservative leaders have shown no greater integrity and are both now helping developers obtain planning permission for developments in Southwark. What makes the Labour leaders' double-dealing particularly treacherous is their political strangleholds in Southwark and Lambeth. The lack of any opposition party provides the leaders with a free hand to wave all these developments through unscrutinised. 
 
 Southwark and Lambeth's corrupt Labour clique has given a whole new meaning to the New Labour mantra of __"inclusive prosperity"__.   
 

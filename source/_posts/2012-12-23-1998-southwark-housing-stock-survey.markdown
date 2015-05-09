@@ -71,7 +71,7 @@ In 1998, as part of the &#39;Southwark Estates Initiative&#39;, Southwark counci
 
 
 <p>
-    <strong><em>&quot;Many of the residents on the Heygate estate have lived on the estate since its construction 25 years ago, and many have lived in the locality all their lives.&nbsp;We would strongly stress, therefore, that the council retains the Wingrave site so that many of the long-standing residents can remain in the immediate locality.&quot;</em> (page 82)</strong></p>
+    <strong><em>&quot;Many of the residents on the Heygate estate have lived on the estate since its construction 25 years ago, and many have lived in the locality all their lives.&nbsp;We would strongly stress, therefore, that the council retains the Wingrave site so that many of the long-standing residents can remain in the immediate locality.&quot;</em> (page 64)</strong></p>
 
 
 <p>
@@ -79,7 +79,7 @@ In 1998, as part of the &#39;Southwark Estates Initiative&#39;, Southwark counci
 
 
 <p>
-    <strong><em>&quot;In conclusion we believe that option 6 (partial demolition of tall blocks &amp; retention of maisonettes) provides the best solution. It is not only the most cost-effective solution but will lead to an overall development which will be environmentally, architecturally and socially appropriate to take the Heygate into the new millenium.&quot;</em>(page 82)&nbsp;</strong></p>
+    <strong><em>&quot;In conclusion we believe that option 6 (partial demolition of tall blocks &amp; retention of maisonettes) provides the best solution. It is not only the most cost-effective solution but will lead to an overall development which will be environmentally, architecturally and socially appropriate to take the Heygate into the new millenium.&quot;</em>(page 64)&nbsp;</strong></p>
 
 
 <h2>Recent Gensler Survey</h2>
