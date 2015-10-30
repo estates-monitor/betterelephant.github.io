@@ -13,7 +13,7 @@ group :development do
   gem 'rb-fsevent'
   gem 'stringex'
   gem 'liquid', '2.2.2'
-
+  gem 'iconv'
 end
 
 gem 'sinatra', '1.2.6'

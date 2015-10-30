@@ -17,8 +17,7 @@ We believe that the current development model being proposed by developers [Lend
 
 The new Localism Act that was passed on November 15 2011, introduced new rights and powers to allow local communities to shape local planning developments by preparing [neighbourhood plans](http://www.planningportal.gov.uk/inyourarea/neighbourhood/).
 
-[Better Elephant](http://betterelephant.org) is currently involved in drafting a neighbourhood plan for the Elephant & Castle area, which explores alternatives to full-scale transfer of public land and housing to the private sector. Our proposals explore community-led planning and development schemes, which help face the challenge of huge development pressure and ensure benefits for the existing residents, existing businesses and existing groups.
-
-{% img right /images/AerialSketchHeygate.jpg 350 185 %}Local residents and key professionals who are interested in the future of our neighbourhood and environment, are invited to get involved and share in our inspiring vision of the future.
+[{% img right /images/Tadeas_Elephant_Park_small.jpg 300 300 %}](/images/Tadeas_Elephant_Park.jpg)[Better Elephant](http://betterelephant.org) is currently involved in drafting a neighbourhood plan for the Elephant & Castle area, which explores alternatives to full-scale transfer of public land and housing to the private sector. Our proposals explore community-led planning and development schemes, which help face the challenge of huge development pressure and ensure benefits for the existing residents, existing businesses and existing groups.
+Anyone interested in the future of our neighbourhood and environment, is invited to get involved and share in our inspiring vision of a grass-roots regeneration.
 
 contact: __admin@betterelephant.org__
