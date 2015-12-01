@@ -48,10 +48,14 @@ In the film, Doreen Gee - former Chair of the Tenants &amp; Residents Associatio
 
 </br>
 
-{% img right http://alicecalcagno.files.wordpress.com/2012/09/dsc_9696.jpg 400 300 %}Meanwhile, 'developer-compliant' interim uses on other parts of the estate continue with the council&#39;s full backing: <a href="http://elefest.org/">Elefest&#39;s annual festival</a> is set to take place on the estate during 5th, 6th and 7th October. This marks the opening of the Heygate&#39;s new &#39;Hotel Elephant&#39; - an art space funded by development-partner Lend Lease, in which some of the asbestos-riddled former community facilities on the estate are being converted to swanky artist studios. Now that the feckless undesirables have been removed from the <a href="http://www.bbc.co.uk/news/uk-england-london-19371334">'unpopular social housing' estate</a>, the drab interiors of the former community centre are being converted to plush artist studios for a far more deserving new gentrified community. &nbsp;</p>
+{% img right /images/daveware.jpg 400 300 %}Meanwhile, 'developer-compliant' interim uses on other parts of the estate continue with the council&#39;s full backing: <a href="http://elefest.org/">Elefest&#39;s annual festival</a> is set to take place on the estate during 5th, 6th and 7th October. This marks the opening of the Heygate&#39;s new &#39;Hotel Elephant&#39; - the former doctor's surgery and TRA clubroom which have been handed over to [Hotel Elephant](http://www.hotelelephant.co.uk/) (at nil cost) to be let out [(for profit)](http://www.hotelelephant.co.uk/studio-space/) as artist studios. Now that the feckless undesirables have been removed from the <a href="http://www.bbc.co.uk/news/uk-england-london-19371334">'unpopular social housing' estate</a>, the drab interiors of the former community centre are being converted to plush artist studios for a far more deserving new gentrified community. &nbsp;</p>
 
 
-{% img left http://www.elefest.org/wp-content/uploads/2012/09/flame-classic.jpg 400 300 %}Providing that none of the contractors come down with asbestos poisoning from the refitting works, the studios&#39;&nbsp;<a href="http://www.elefest.org/event/hotel-elephant-launch/">will open on the 6th October with</a> a performance by a wasteful gas-powered firebreathing robotic dragon.</br> Welcome to London&#39;s greenest regeneration scheme...
+{% imgcap left /images/daveware2.jpg Dave Ware from Southwark Regeneration 400 300 %}The studios&#39;&nbsp;<a href="http://www.elefest.org/event/hotel-elephant-launch/">will open on the 6th October with</a> a performance by a gas-powered firebreathing robotic dragon.</br> 
+
+{% imgcap /images/hotelelephant.jpg Hotel Elephant's Director Reuben Powell (centre left) %}
+
+<iframe width="350" height="197" src="https://www.youtube.com/embed/DymdD3Nq-e0" frameborder="0" allowfullscreen></iframe>
 
 </br>
 </br>
